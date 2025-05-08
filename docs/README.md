@@ -16,13 +16,17 @@ Welcome to the Signal Processing Workshop! This project provides both Python imp
 
 1. **Requirements**: Python 3.12+
 2. **Install dependencies (using [uv](https://github.com/astral-sh/uv))**:
+
    ```sh
    uv pip install -r PythonImplementations/requirements.txt
    ```
+
 3. **Run the main script:**
+
    ```sh
    python PythonImplementations/main.py
    ```
+
 4. **Explore modules:**
    - DSP algorithms: `PythonImplementations/dsp/`
    - Graphics: `PythonImplementations/graphics/`
@@ -30,14 +34,18 @@ Welcome to the Signal Processing Workshop! This project provides both Python imp
 ### Website (React + Vite)
 
 1. **Install dependencies:**
+
    ```sh
    cd spw-site
    npm install
    ```
+
 2. **Start the dev server:**
+
    ```sh
    npm run dev
    ```
+
 3. **Open** [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
